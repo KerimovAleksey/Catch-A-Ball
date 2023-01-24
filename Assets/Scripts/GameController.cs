@@ -7,6 +7,7 @@ using UnityEngine.UI;
 
 public class GameController : MonoBehaviour
 {
+    // some changes!
     public GameObject EightBallPrefab;
     public int Score = 0; 
     public bool gameover = true;
